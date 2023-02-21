@@ -21,3 +21,5 @@ if place_meeting(x, y + yspd, obj_wall) == true
 
 x += xspd;
 y += yspd;
+
+//Trenten is awesome
