@@ -21,3 +21,5 @@ if place_meeting(x, y + yspd, obj_wall) == true
 
 x += xspd;
 y += yspd;
+
+//THIS IS ABRAHAM'S IT WILL BE EXTREMELY EXPERIMENTAL
