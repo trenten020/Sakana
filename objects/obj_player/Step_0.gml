@@ -7,7 +7,7 @@ down_key = keyboard_check(ord("S"));
 xspd = (right_key - left_key) * move_spd;
 yspd = (down_key - up_key) * move_spd;
 
-
+//e e e e e e e e e e e e e 
 //collisions
 if place_meeting(x + xspd, y, obj_wall) == true
 	{
