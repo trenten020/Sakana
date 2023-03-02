@@ -32,11 +32,15 @@
     "IDEVersion": "2023.1.0.58",
   },
   "resources": [
-    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
+    {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},"order":0,},
+    {"id":{"name":"obj_bordertree","path":"objects/obj_bordertree/obj_bordertree.yy",},"order":0,},
+    {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},"order":0,},
+    {"id":{"name":"spr_bordertree","path":"sprites/spr_bordertree/spr_bordertree.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},"order":0,},
+    {"id":{"name":"obj_water","path":"objects/obj_water/obj_water.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
-    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
