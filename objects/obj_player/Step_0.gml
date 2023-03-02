@@ -8,7 +8,7 @@ xspd = (right_key - left_key) * move_spd;
 yspd = (down_key - up_key) * move_spd;
 
 //e e e e e e e e e e e e e 
-//collisions
+//collisions for ob_wall
 if place_meeting(x + xspd, y, obj_wall) == true
 	{
 	xspd = 0;
@@ -17,7 +17,15 @@ if place_meeting(x, y + yspd, obj_wall) == true
 	{
 	yspd = 0;
 	}
-
+// collisions for Ob_player2
+if place_meeting(x + xspd, y, Obj_Player2) == true
+	{
+	xspd = 0;
+	}
+if place_meeting(x, y + yspd, Obj_Player2) == true
+	{
+	yspd = 0;
+	}
 
 x += xspd;
 y += yspd;

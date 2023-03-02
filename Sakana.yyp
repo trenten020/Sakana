@@ -32,10 +32,14 @@
     "IDEVersion": "2023.1.1.62",
   },
   "resources": [
+    {"id":{"name":"NPCtemporary","path":"sprites/NPCtemporary/NPCtemporary.yy",},"order":15,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":18,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"Obj_Player2","path":"objects/Obj_Player2/Obj_Player2.yy",},"order":17,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":16,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
   ],
   "RoomOrderNodes": [
