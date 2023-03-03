@@ -35,11 +35,13 @@
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},"order":0,},
     {"id":{"name":"obj_bordertree","path":"objects/obj_bordertree/obj_bordertree.yy",},"order":0,},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},"order":0,},
+    {"id":{"name":"obj_rock","path":"objects/obj_rock/obj_rock.yy",},"order":0,},
     {"id":{"name":"spr_bordertree","path":"sprites/spr_bordertree/spr_bordertree.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},"order":0,},
     {"id":{"name":"obj_water","path":"objects/obj_water/obj_water.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"spr_rock","path":"sprites/spr_rock/spr_rock.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
