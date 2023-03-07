@@ -21,6 +21,7 @@
     {"name":"spr_water","order":4,"path":"sprites/spr_water/spr_water.yy",},
     {"name":"obj_rock","order":5,"path":"objects/obj_rock/obj_rock.yy",},
     {"name":"spr_bordertree","order":2,"path":"sprites/spr_bordertree/spr_bordertree.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"obj_tree","order":3,"path":"objects/obj_tree/obj_tree.yy",},
     {"name":"obj_water","order":4,"path":"objects/obj_water/obj_water.yy",},
     {"name":"spr_rock","order":5,"path":"sprites/spr_rock/spr_rock.yy",},
