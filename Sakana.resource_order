@@ -16,11 +16,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"NPCtemporary","order":15,"path":"sprites/NPCtemporary/NPCtemporary.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
-    {"name":"Sprite4","order":18,"path":"sprites/Sprite4/Sprite4.yy",},
-    {"name":"Obj_Player2","order":17,"path":"objects/Obj_Player2/Obj_Player2.yy",},
-    {"name":"Object3","order":16,"path":"objects/Object3/Object3.yy",},
+    {"name":"sMenuBox","order":4,"path":"sprites/sMenuBox/sMenuBox.yy",},
+    {"name":"oGame","order":2,"path":"objects/oGame/oGame.yy",},
+    {"name":"oMenu","order":3,"path":"objects/oMenu/oMenu.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
   ],
 }

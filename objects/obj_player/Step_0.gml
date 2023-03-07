@@ -17,18 +17,11 @@ if place_meeting(x, y + yspd, obj_wall) == true
 	{
 	yspd = 0;
 	}
-// collisions for Ob_player2
-if place_meeting(x + xspd, y, Obj_Player2) == true
-	{
-	xspd = 0;
-	}
-if place_meeting(x, y + yspd, Obj_Player2) == true
-	{
-	yspd = 0;
-	}
+
 
 x += xspd;
 y += yspd;
+
 
 //THIS IS ABRAHAM'S IT WILL BE EXTREMELY EXPERIMENTAL
 //Trenten is awesome
