@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oGame",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":54,"eventType":6,"isDnD":false,},
-  ],
+  "name": "obj_npc",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -27,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_npc",
+    "path": "sprites/spr_npc/spr_npc.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
