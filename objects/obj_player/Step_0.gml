@@ -24,3 +24,21 @@ y += yspd;
 
 //THIS IS ABRAHAM'S IT WILL BE EXTREMELY EXPERIMENTAL
 //Trenten is awesome
+
+//FISHING
+
+if global.fishing == true
+{
+	if right_key == true
+		{
+		sprite_index = Pull_Right;
+		}
+	if down_key == true
+		{
+		sprite_index = Pull_Back;
+		}
+	if left_key == true
+		{
+		sprite_index = Pull_Left;
+		}
+}
