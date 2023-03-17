@@ -16,16 +16,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-
-    {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"spr_npc","order":4,"path":"sprites/spr_npc/spr_npc.yy",},
     {"name":"spr_speachBubble","order":5,"path":"sprites/spr_speachBubble/spr_speachBubble.yy",},
     {"name":"sMenuBox","order":3,"path":"sprites/sMenuBox/sMenuBox.yy",},
     {"name":"obj_npc","order":4,"path":"objects/obj_npc/obj_npc.yy",},
     {"name":"oGameDONTDELETE","order":2,"path":"objects/oGameDONTDELETE/oGameDONTDELETE.yy",},
     {"name":"oMenu","order":3,"path":"objects/oMenu/oMenu.yy",},
-    {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
-
     {"name":"Pull_Right","order":3,"path":"sprites/Pull_Right/Pull_Right.yy",},
     {"name":"Pull_Back","order":4,"path":"sprites/Pull_Back/Pull_Back.yy",},
     {"name":"spr_tree","order":3,"path":"sprites/spr_tree/spr_tree.yy",},
@@ -38,6 +34,5 @@
     {"name":"obj_water","order":4,"path":"objects/obj_water/obj_water.yy",},
     {"name":"spr_rock","order":5,"path":"sprites/spr_rock/spr_rock.yy",},
     {"name":"Pull_Left","order":2,"path":"sprites/Pull_Left/Pull_Left.yy",},
-
   ],
 }
