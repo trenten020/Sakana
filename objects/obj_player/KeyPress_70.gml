@@ -10,3 +10,4 @@ if global.fishing == false
 	move_spd = 0;
 	sprite_index = Pull_Back;
 }
+// testing for updates stuff
