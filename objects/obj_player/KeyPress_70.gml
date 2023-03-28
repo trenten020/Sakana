@@ -1,8 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-//fishstartpic = layer_sprite_get_id("Fishes", "fishing_player")
-if global.fishing == false
+//FISHING
+var fishspot = collision_rectangle(1180, 640, 1400, 650, obj_player, true, false);
+if global.fishing == false && fishspot != noone
 {
 	global.fishing = true
 	layer_set_visible("Fishes", true)
@@ -10,4 +8,3 @@ if global.fishing == false
 	move_spd = 0;
 	sprite_index = Pull_Back;
 }
-// testing for updates stuff
