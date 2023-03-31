@@ -59,14 +59,22 @@ if global.fishing == true
 {
 	if right_key == true
 		{
+		pullstate=2;
 		sprite_index = Pull_Right;
 		}
 	if down_key == true
 		{
+		pullstate=0;
 		sprite_index = Pull_Back;
 		}
+		
 	if left_key == true
 		{
+		pullstate=1;
 		sprite_index = Pull_Left;
 		}
+		//if pullstate==global.fishdirection
+		//{
+		//	global.fishprogress=global.fishprogress+1;
+		//}
 }
