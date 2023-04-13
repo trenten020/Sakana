@@ -50,7 +50,6 @@ x += xspd;
 y += yspd;
 
 
-//THIS IS ABRAHAM'S IT WILL BE EXTREMELY EXPERIMENTAL
 //Trenten is awesome
 
 //FISHING
@@ -60,6 +59,7 @@ if global.fishing == true
 	if right_key == true
 		{
 		pullstate=2;
+		draw_sprite(FishPullRight, 0, x+3, y+30);
 		sprite_index = Pull_Right;
 		}
 	if down_key == true
@@ -73,6 +73,7 @@ if global.fishing == true
 		pullstate=1;
 		sprite_index = Pull_Left;
 		}
+	
 		//if pullstate==global.fishdirection
 		//{
 		//	global.fishprogress=global.fishprogress+1;

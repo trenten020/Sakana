@@ -46,6 +46,7 @@
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"Pull_Right","path":"sprites/Pull_Right/Pull_Right.yy",},},
     {"id":{"name":"Pull_Back","path":"sprites/Pull_Back/Pull_Back.yy",},},
+    {"id":{"name":"FishPullRight","path":"sprites/FishPullRight/FishPullRight.yy",},},
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},},
     {"id":{"name":"obj_bordertree","path":"objects/obj_bordertree/obj_bordertree.yy",},},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},},
