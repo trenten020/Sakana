@@ -59,7 +59,7 @@ if global.fishing == true
 	if right_key == true
 		{
 		pullstate=2;
-		draw_sprite(FishPullRight, 0, x+3, y+30);
+		//draw_sprite(FishPullRight, 0, x+3, y+30);
 		sprite_index = Pull_Right;
 		}
 	if down_key == true
