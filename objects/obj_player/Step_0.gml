@@ -73,9 +73,9 @@ if global.fishing == true
 		pullstate=1;
 		sprite_index = Pull_Left;
 		}
-	time_source_create(parent, period, units, callback)
-		//if pullstate==global.fishdirection
-		//{
-		//	global.fishprogress=global.fishprogress+1;
-		//}
+	
+		if pullstate==global.fishdirection
+		{
+			global.fishprogress=global.fishprogress-1;
+		}
 }

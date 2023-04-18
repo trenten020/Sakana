@@ -7,7 +7,9 @@ if global.fishing == false && fishspot != noone
 	layer_set_visible("Fishes", true) //Layer that fish graphics will be on
 	move_spd = 0;
 	sprite_index = Pull_Back;
-	global.fishprogress=0;
+	global.fishprogress=1800;
+	global.fishdirection=0;
+	time_source_start(fishbattle);
 
 
 
