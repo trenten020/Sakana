@@ -20,6 +20,7 @@
     {"name":"spr_speachBubble","order":5,"path":"sprites/spr_speachBubble/spr_speachBubble.yy",},
     {"name":"sMenuBox","order":3,"path":"sprites/sMenuBox/sMenuBox.yy",},
     {"name":"obj_npc","order":4,"path":"objects/obj_npc/obj_npc.yy",},
+    {"name":"TownDzn","order":2,"path":"rooms/TownDzn/TownDzn.yy",},
     {"name":"oGameDONTDELETE","order":2,"path":"objects/oGameDONTDELETE/oGameDONTDELETE.yy",},
     {"name":"oMenu","order":3,"path":"objects/oMenu/oMenu.yy",},
     {"name":"Pull_Right","order":3,"path":"sprites/Pull_Right/Pull_Right.yy",},
