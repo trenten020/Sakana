@@ -54,14 +54,18 @@ y += yspd;
 
 //FISHING
 
+if global.fishdirection==0(draw_sprite(Fish_Pull_Forward, -1, x+5, y+20, 40, 80))
+//if global.fishdirection==1()
+//if global.fishdirection==2()
+
 if global.fishing == true
 {
 	if right_key == true
 		{
 		pullstate=2;
-		//draw_sprite(FishPullRight, 0, x+3, y+30);
 		sprite_index = Pull_Right;
 		}
+		
 	if down_key == true
 		{
 		pullstate=0;
@@ -74,8 +78,13 @@ if global.fishing == true
 		sprite_index = Pull_Left;
 		}
 	
-		if pullstate==global.fishdirection
-		{
+	if pullstate==global.fishdirection%3
+	{
 			global.fishprogress=global.fishprogress-1;
+	}
+	
+	if global.fishprogress==0
+		{
+		global.fishing = false;
 		}
 }

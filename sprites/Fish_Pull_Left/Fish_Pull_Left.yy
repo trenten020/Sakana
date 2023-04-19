@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "FishPullRight",
+  "name": "Fish_Pull_Left",
   "bbox_bottom": 63,
-  "bbox_left": 0,
-  "bbox_right": 63,
-  "bbox_top": 6,
+  "bbox_left": 5,
+  "bbox_right": 56,
+  "bbox_top": 3,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fbb50a19-6bac-4be6-afbf-cc1a9cca0e93",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9e67bebc-e27a-453a-9630-a753c5e3b0a6",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"125e19e5-1bbb-4697-b790-c599f7ef0444","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5f6c26a3-0cf5-4aff-9e93-cf5b3ed155fd","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "FishPullRight",
+    "name": "Fish_Pull_Left",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fbb50a19-6bac-4be6-afbf-cc1a9cca0e93","path":"sprites/FishPullRight/FishPullRight.yy",},},},"Disabled":false,"id":"4715bfc3-b371-413e-813b-279fa6f03100","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9e67bebc-e27a-453a-9630-a753c5e3b0a6","path":"sprites/Fish_Pull_Left/Fish_Pull_Left.yy",},},},"Disabled":false,"id":"a2501deb-b3ee-4bb5-b679-ca48775ad1fd","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
