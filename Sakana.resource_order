@@ -16,7 +16,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"fishiary","order":17,"path":"sprites/fishiary/fishiary.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"Object3","order":16,"path":"objects/Object3/Object3.yy",},
+    {"name":"Script1","order":15,"path":"scripts/Script1/Script1.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
   ],
 }
