@@ -22,6 +22,7 @@
     {"name":"Fish_Pull_Left","order":7,"path":"sprites/Fish_Pull_Left/Fish_Pull_Left.yy",},
     {"name":"obj_npc","order":4,"path":"objects/obj_npc/obj_npc.yy",},
     {"name":"oGameDONTDELETE","order":2,"path":"objects/oGameDONTDELETE/oGameDONTDELETE.yy",},
+    {"name":"Fishing_Line","order":6,"path":"objects/Fishing_Line/Fishing_Line.yy",},
     {"name":"oMenu","order":3,"path":"objects/oMenu/oMenu.yy",},
     {"name":"Pull_Right","order":3,"path":"sprites/Pull_Right/Pull_Right.yy",},
     {"name":"Pull_Back","order":4,"path":"sprites/Pull_Back/Pull_Back.yy",},

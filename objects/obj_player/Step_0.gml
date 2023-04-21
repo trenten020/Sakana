@@ -7,7 +7,8 @@ down_key = keyboard_check(ord("S"));
 xspd = (right_key - left_key) * move_spd;
 yspd = (down_key - up_key) * move_spd;
 
-
+global.playerx=x;
+global.playery=y;
 
 //collisions
 if place_meeting(x + xspd, y, obj_tree) == true
@@ -54,12 +55,11 @@ y += yspd;
 
 //FISHING
 
-if global.fishdirection==0(draw_sprite(Fish_Pull_Forward, -1, x+5, y+20, 40, 80))
-//if global.fishdirection==1()
-//if global.fishdirection==2()
+
 
 if global.fishing == true
 {
+	show_debug_message(global.fishprogress)
 	if right_key == true
 		{
 		pullstate=2;

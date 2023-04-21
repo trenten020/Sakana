@@ -43,6 +43,7 @@
     {"id":{"name":"Fish_Pull_Left","path":"sprites/Fish_Pull_Left/Fish_Pull_Left.yy",},},
     {"id":{"name":"obj_npc","path":"objects/obj_npc/obj_npc.yy",},},
     {"id":{"name":"oGameDONTDELETE","path":"objects/oGameDONTDELETE/oGameDONTDELETE.yy",},},
+    {"id":{"name":"Fishing_Line","path":"objects/Fishing_Line/Fishing_Line.yy",},},
     {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"Pull_Right","path":"sprites/Pull_Right/Pull_Right.yy",},},
