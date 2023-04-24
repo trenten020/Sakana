@@ -50,12 +50,8 @@ if place_meeting(x, y + yspd, obj_rock) == true
 x += xspd;
 y += yspd;
 
-
 //Trenten is awesome
-
 //FISHING
-
-
 
 if global.fishing == true
 {
@@ -79,12 +75,14 @@ if global.fishing == true
 		}
 	
 	if pullstate==global.fishdirection%3
-	{
-			global.fishprogress=global.fishprogress-1;
-	}
+		{
+		global.fishprogress=global.fishprogress-1.8;
+		}
 	
 	if global.fishprogress==0
 		{
 		global.fishing = false;
+		move_spd=2;
+		sprite_index=spr_player;
 		}
 }
