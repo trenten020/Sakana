@@ -1,7 +1,7 @@
 if global.fishing==true
 {
 	
-	draw_line_color(x, y, global.playerx, global.playery, color_get_red(), );
+	
 	
 	layer_set_visible("Fishes", true)
 	
