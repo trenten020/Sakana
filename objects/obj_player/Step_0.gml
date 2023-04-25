@@ -55,7 +55,7 @@ y += yspd;
 
 if global.fishing == true
 {
-	show_debug_message(global.fishprogress)
+	//show_debug_message(global.fishprogress)
 	if right_key == true
 		{
 		pullstate=2;
@@ -76,7 +76,7 @@ if global.fishing == true
 	
 	if pullstate==global.fishdirection%3
 		{
-		global.fishprogress=global.fishprogress-1.8;
+		global.fishprogress=global.fishprogress-5;
 		}
 	
 	if global.fishprogress==0
