@@ -1,11 +1,11 @@
 //This makes timer start going down.
 coolDownTimer --;
 
-if ( coolDownTimer <= 0 and to_spawnSpeachbub_Id != noone){
+if (coolDownTimer <= 0 and to_spawnSpeachbub_Id != noone){
 
 coolDownTimer = coolDownTime
 
 	instance_destroy(to_spawnSpeachbub_Id)
-	bubbleSpawn = false;
+	global.bubbleSpawn = false;
 	to_spawnSpeachbub_Id = noone;
 }
