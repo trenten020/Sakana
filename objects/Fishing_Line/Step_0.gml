@@ -1,8 +1,5 @@
 if global.fishing==true
 {
-	
-	
-	
 	layer_set_visible("Fishes", true)
 	
 	
