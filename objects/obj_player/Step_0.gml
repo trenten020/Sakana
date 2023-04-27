@@ -7,8 +7,8 @@ down_key = keyboard_check(ord("S"));
 xspd = (right_key - left_key) * move_spd;
 yspd = (down_key - up_key) * move_spd;
 
-global.playerx=x;
-global.playery=y;
+global.playerx=bbox_right;
+global.playery=bbox_bottom;
 
 //collisions
 if place_meeting(x + xspd, y, obj_tree) == true
