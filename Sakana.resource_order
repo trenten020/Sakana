@@ -32,6 +32,8 @@
     {"name":"spr_tree","order":3,"path":"sprites/spr_tree/spr_tree.yy",},
     {"name":"line","order":7,"path":"objects/line/line.yy",},
     {"name":"TileSet1","order":9,"path":"tilesets/TileSet1/TileSet1.yy",},
+    {"name":"Extension1","order":7,"path":"extensions/Extension1/Extension1.yy",},
+    {"name":"Building1","order":8,"path":"sprites/Building1/Building1.yy",},
     {"name":"obj_bordertree","order":2,"path":"objects/obj_bordertree/obj_bordertree.yy",},
     {"name":"Fish_Pull_Forward","order":8,"path":"sprites/Fish_Pull_Forward/Fish_Pull_Forward.yy",},
     {"name":"spr_water","order":4,"path":"sprites/spr_water/spr_water.yy",},
@@ -43,6 +45,7 @@
     {"name":"spr_speachBubbleEnd","order":7,"path":"sprites/spr_speachBubbleEnd/spr_speachBubbleEnd.yy",},
     {"name":"obj_water","order":4,"path":"objects/obj_water/obj_water.yy",},
     {"name":"spr_rock","order":5,"path":"sprites/spr_rock/spr_rock.yy",},
+    {"name":"TileSet1","order":6,"path":"tilesets/TileSet1/TileSet1.yy",},
     {"name":"Pull_Left","order":2,"path":"sprites/Pull_Left/Pull_Left.yy",},
   ],
 }
