@@ -1,3 +1,5 @@
+if (global.bubbleSpawn == true)
+{		
 Menu
 (
 	mouse_x,
@@ -9,3 +11,9 @@ Menu
 	],
 	"Options!"
 );
+
+}
+else
+{
+//i fogor
+}
