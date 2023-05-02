@@ -45,7 +45,14 @@ if place_meeting(x, y + yspd, obj_rock) == true
 	{
 	yspd = 0;
 	}
-
+if place_meeting(x + xspd, y, obj_bush) == true
+	{
+	xspd = 0;
+	}
+if place_meeting(x, y + yspd, obj_bush) == true
+	{
+	yspd = 0;
+	}
 
 
 x += xspd;

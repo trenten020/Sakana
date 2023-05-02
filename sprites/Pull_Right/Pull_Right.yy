@@ -15,9 +15,9 @@
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c79fa59d-1981-4d85-aab5-5da235b681d4",},
   ],
-  "gridX": 0,
-  "gridY": 0,
-  "height": 32,
+  "gridX": 16,
+  "gridY": 16,
+  "height": 16,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a94de3a9-8e6f-4fa0-aec0-f7fa169ab9bb","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 32,
+  "width": 16,
 }
