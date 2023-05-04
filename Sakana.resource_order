@@ -16,6 +16,8 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_lavender","order":14,"path":"sprites/spr_lavender/spr_lavender.yy",},
+    {"name":"Sprite18","order":11,"path":"sprites/Sprite18/Sprite18.yy",},
     {"name":"spr_npc","order":4,"path":"sprites/spr_npc/spr_npc.yy",},
     {"name":"spr_dock","order":10,"path":"sprites/spr_dock/spr_dock.yy",},
     {"name":"spr_speachBubble","order":5,"path":"sprites/spr_speachBubble/spr_speachBubble.yy",},
@@ -42,7 +44,9 @@
     {"name":"spr_speachBubbleEnd","order":7,"path":"sprites/spr_speachBubbleEnd/spr_speachBubbleEnd.yy",},
     {"name":"obj_water","order":4,"path":"objects/obj_water/obj_water.yy",},
     {"name":"spr_bush","order":9,"path":"sprites/spr_bush/spr_bush.yy",},
+    {"name":"spr_grave","order":13,"path":"sprites/spr_grave/spr_grave.yy",},
     {"name":"spr_rock","order":5,"path":"sprites/spr_rock/spr_rock.yy",},
+    {"name":"spr_flower_red","order":12,"path":"sprites/spr_flower_red/spr_flower_red.yy",},
     {"name":"Pull_Left","order":2,"path":"sprites/Pull_Left/Pull_Left.yy",},
   ],
 }

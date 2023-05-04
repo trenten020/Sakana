@@ -1,6 +1,6 @@
 //FISHING MINIGAME
 //Player animation and programming
-var fishspot = collision_rectangle(1240, 576, 1260, 580, obj_player, true, false);
+var fishspot = collision_rectangle(1496, 896, 1512, 900, obj_player, true, false);
 if global.fishing == false && fishspot != noone
 {
 

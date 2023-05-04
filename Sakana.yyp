@@ -30,9 +30,11 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.1.75",
+    "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"spr_lavender","path":"sprites/spr_lavender/spr_lavender.yy",},},
+    {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
     {"id":{"name":"MenuFunctions","path":"scripts/MenuFunctions/MenuFunctions.yy",},},
     {"id":{"name":"fSilver","path":"fonts/fSilver/fSilver.yy",},},
     {"id":{"name":"spr_npc","path":"sprites/spr_npc/spr_npc.yy",},},
@@ -64,7 +66,9 @@
     {"id":{"name":"spr_speachBubbleEnd","path":"sprites/spr_speachBubbleEnd/spr_speachBubbleEnd.yy",},},
     {"id":{"name":"obj_water","path":"objects/obj_water/obj_water.yy",},},
     {"id":{"name":"spr_bush","path":"sprites/spr_bush/spr_bush.yy",},},
+    {"id":{"name":"spr_grave","path":"sprites/spr_grave/spr_grave.yy",},},
     {"id":{"name":"spr_rock","path":"sprites/spr_rock/spr_rock.yy",},},
+    {"id":{"name":"spr_flower_red","path":"sprites/spr_flower_red/spr_flower_red.yy",},},
     {"id":{"name":"Pull_Left","path":"sprites/Pull_Left/Pull_Left.yy",},},
   ],
   "RoomOrderNodes": [
