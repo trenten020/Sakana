@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_baitshop","order":1,"path":"tilesets/spr_baitshop/spr_baitshop.yy",},
+  ],
 }
