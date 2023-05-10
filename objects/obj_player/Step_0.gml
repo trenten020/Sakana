@@ -7,6 +7,7 @@ down_key = keyboard_check(ord("S"));
 xspd = (right_key - left_key) * move_spd;
 yspd = (down_key - up_key) * move_spd;
 
+depth=-bbox_bottom;
 global.playerxb=bbox_right;
 global.playeryb=bbox_bottom;
 global.playerx=x;
@@ -45,15 +46,22 @@ if place_meeting(x, y + yspd, obj_rock) == true
 	{
 	yspd = 0;
 	}
-if place_meeting(x + xspd, y, obj_bush) == true
+if place_meeting(x + xspd, y, obj_grave) == true
 	{
 	xspd = 0;
 	}
-if place_meeting(x, y + yspd, obj_bush) == true
+if place_meeting(x, y + yspd, obj_grave) == true
 	{
 	yspd = 0;
 	}
-
+if place_meeting(x + xspd, y, clear_wall) == true
+	{
+	xspd = 0;
+	}
+if place_meeting(x, y + yspd, clear_wall) == true
+	{
+	yspd = 0;
+	}
 
 x += xspd;
 y += yspd;
