@@ -62,7 +62,14 @@ if place_meeting(x, y + yspd, clear_wall) == true
 	{
 	yspd = 0;
 	}
-
+if place_meeting(x + xspd, y, obj_widow) == true
+	{
+	xspd = 0;
+	}
+if place_meeting(x, y + yspd, obj_widow) == true
+	{
+	yspd = 0;
+	}
 x += xspd;
 y += yspd;
 
@@ -71,7 +78,6 @@ y += yspd;
 
 if global.fishing == true
 {
-	//show_debug_message(global.fishprogress)
 	if right_key == true
 		{
 		pullstate=2;

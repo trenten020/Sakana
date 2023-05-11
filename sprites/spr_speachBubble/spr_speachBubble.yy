@@ -52,7 +52,7 @@
   "origin": 7,
   "parent": {
     "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "path": "folders/Paths/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
