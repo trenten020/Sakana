@@ -40,6 +40,7 @@
     {"id":{"name":"spr_speachBubble","path":"sprites/spr_speachBubble/spr_speachBubble.yy",},},
     {"id":{"name":"sMenuBox","path":"sprites/sMenuBox/sMenuBox.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"textBoxName","path":"sprites/textBoxName/textBoxName.yy",},},
     {"id":{"name":"Fish_Pull_Left","path":"sprites/Fish_Pull_Left/Fish_Pull_Left.yy",},},
     {"id":{"name":"obj_npc","path":"objects/obj_npc/obj_npc.yy",},},
     {"id":{"name":"oGameDONTDELETE","path":"objects/oGameDONTDELETE/oGameDONTDELETE.yy",},},

@@ -19,6 +19,7 @@
     {"name":"spr_npc","order":4,"path":"sprites/spr_npc/spr_npc.yy",},
     {"name":"spr_speachBubble","order":5,"path":"sprites/spr_speachBubble/spr_speachBubble.yy",},
     {"name":"sMenuBox","order":3,"path":"sprites/sMenuBox/sMenuBox.yy",},
+    {"name":"textBoxName","order":13,"path":"sprites/textBoxName/textBoxName.yy",},
     {"name":"Fish_Pull_Left","order":7,"path":"sprites/Fish_Pull_Left/Fish_Pull_Left.yy",},
     {"name":"obj_npc","order":4,"path":"objects/obj_npc/obj_npc.yy",},
     {"name":"oGameDONTDELETE","order":2,"path":"objects/oGameDONTDELETE/oGameDONTDELETE.yy",},
