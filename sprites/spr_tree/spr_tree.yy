@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_tree",
-  "bbox_bottom": 30,
-  "bbox_left": 1,
-  "bbox_right": 14,
-  "bbox_top": 16,
+  "bbox_bottom": 31,
+  "bbox_left": 6,
+  "bbox_right": 9,
+  "bbox_top": 20,
   "bboxMode": 2,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Sprites",
-    "path": "folders/Paths/Sprites.yy",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

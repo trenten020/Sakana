@@ -2,8 +2,8 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_white_flower",
-  "bbox_bottom": 43,
-  "bbox_left": 15,
+  "bbox_bottom": 49,
+  "bbox_left": 14,
   "bbox_right": 36,
   "bbox_top": 5,
   "bboxMode": 2,
@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Sprites",
-    "path": "folders/Paths/Sprites.yy",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_water",
-  "bbox_bottom": 14,
-  "bbox_left": 1,
-  "bbox_right": 14,
-  "bbox_top": 1,
+  "bbox_bottom": 15,
+  "bbox_left": 0,
+  "bbox_right": 15,
+  "bbox_top": 0,
   "bboxMode": 2,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -49,7 +49,7 @@
   "origin": 0,
   "parent": {
     "name": "Sprites",
-    "path": "folders/Paths/Sprites.yy",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
