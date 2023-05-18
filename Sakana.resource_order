@@ -12,9 +12,9 @@
     {"name":"Shaders","order":4,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":1,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":12,"path":"folders/Sprites.yy",},
-    {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
     {"name":"Fish","order":28,"path":"folders/Sprites/Fish.yy",},
     {"name":"Plants","order":30,"path":"folders/Sprites/Plants.yy",},
+    {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_lavender","order":4,"path":"sprites/spr_lavender/spr_lavender.yy",},
