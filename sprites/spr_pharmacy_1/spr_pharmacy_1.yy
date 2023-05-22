@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite14",
-  "bbox_bottom": 46,
-  "bbox_left": 3,
-  "bbox_right": 56,
-  "bbox_top": 19,
+  "name": "spr_pharmacy_1",
+  "bbox_bottom": 53,
+  "bbox_left": 2,
+  "bbox_right": 61,
+  "bbox_top": 24,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"eb86d7f0-1a8d-4a5d-8499-a2354f32df78",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"54b76214-9404-430a-b51e-0fbd11535d7b",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c8c76363-0868-4964-b232-5f5efc9fffad","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"403d49ee-b81b-4c46-b9d0-e62cf26310f1","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite14",
+    "name": "spr_pharmacy_1",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"eb86d7f0-1a8d-4a5d-8499-a2354f32df78","path":"sprites/Sprite14/Sprite14.yy",},},},"Disabled":false,"id":"d9e1aa70-1329-4a8a-8a2d-0d53df07f1bf","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"54b76214-9404-430a-b51e-0fbd11535d7b","path":"sprites/spr_pharmacy_1/spr_pharmacy_1.yy",},},},"Disabled":false,"id":"f04bdaae-b397-4ee2-9380-eb9ecbeb32a6","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
