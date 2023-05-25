@@ -74,6 +74,7 @@
     {"id":{"name":"obj_bordertree","path":"objects/obj_bordertree/obj_bordertree.yy",},},
     {"id":{"name":"Fish_Pull_Forward","path":"sprites/Fish_Pull_Forward/Fish_Pull_Forward.yy",},},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},},
+    {"id":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},},
     {"id":{"name":"obj_widow","path":"objects/obj_widow/obj_widow.yy",},},
     {"id":{"name":"obj_rock","path":"objects/obj_rock/obj_rock.yy",},},
     {"id":{"name":"spr_bordertree","path":"sprites/spr_bordertree/spr_bordertree.yy",},},

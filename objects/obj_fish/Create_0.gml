@@ -1,0 +1,1 @@
+global.fishnum=1;

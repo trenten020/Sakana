@@ -49,6 +49,7 @@
     {"name":"obj_bordertree","order":1,"path":"objects/obj_bordertree/obj_bordertree.yy",},
     {"name":"Fish_Pull_Forward","order":13,"path":"sprites/Fish_Pull_Forward/Fish_Pull_Forward.yy",},
     {"name":"spr_water","order":6,"path":"sprites/spr_water/spr_water.yy",},
+    {"name":"obj_fish","order":19,"path":"objects/obj_fish/obj_fish.yy",},
     {"name":"obj_widow","order":18,"path":"objects/obj_widow/obj_widow.yy",},
     {"name":"obj_rock","order":7,"path":"objects/obj_rock/obj_rock.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},

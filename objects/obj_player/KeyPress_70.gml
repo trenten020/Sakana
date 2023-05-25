@@ -12,7 +12,7 @@ if global.fishing == false && fishspot != noone
 	move_spd = 0;
 	
 	sprite_index = Pull_Back;
-	global.fishprogress=1800;
+	
 	time_source_start(fishbattle);
 
 

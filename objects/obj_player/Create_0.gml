@@ -1,9 +1,13 @@
+
+window_set_size(1050, 900);
+window_center();
 randomize();
 xspd = 0;
 yspd = 0;
 
 move_spd = 2;
 
+global.fishprogress=1800;
 global.fishing = false
 global.fishdirection=0;
 pullstate=0;
