@@ -98,7 +98,7 @@ if global.fishing == true
 	
 	if pullstate==global.fishdirection%3
 		{
-		global.fishprogress=global.fishprogress-5;
+		global.fishprogress=global.fishprogress-100;
 		}
 	
 	if global.fishprogress==0
@@ -107,4 +107,9 @@ if global.fishing == true
 		move_spd=2;
 		sprite_index=spr_player;
 		}
+}
+
+if global.fishing == false
+{
+time_source_destroy(fishbattle)
 }
