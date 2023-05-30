@@ -9,7 +9,10 @@
     "name": "GUI",
     "path": "folders/Objects/GUI.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oBoxParent",
+    "path": "objects/oBoxParent/oBoxParent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -30,5 +33,5 @@
     "path": "sprites/sBox/sBox.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

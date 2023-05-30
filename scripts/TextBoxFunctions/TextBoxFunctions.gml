@@ -4,6 +4,7 @@ global.textboxSequence = -1;
 
 function create_textbox () 
 {
+global.pause = true
 // create texbox instance
 	var _textbox = instance_create_layer(0, 0, "Textbox", oTextbox); 
 
@@ -13,10 +14,11 @@ function create_textbox ()
 	global.textboxSequence = layer_sequence_create("Textbox", _camX, _camY, seqTextbox);
  
 // pause character 
-	global.pause = true;
+
 }
 
 function close_textbox () {
+	
 	layer_sequence_destroy(global.textboxSequence);
 	instance_destroy(oTextbox);
 	

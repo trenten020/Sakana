@@ -69,13 +69,13 @@ y += yspd;
 //Trenten is awesome
 global.pause = false;
 
-if (global.pause)
+if (global.pause == true)
 {
-	move_spd = 0;
+move_spd = 2;
 }
 else 
 {
-	move_spd = 2;
+move_spd = 2;
 }
 
 
