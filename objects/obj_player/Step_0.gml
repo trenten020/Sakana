@@ -96,7 +96,7 @@ if global.fishing == true
 		pullstate=2;
 		sprite_index = Pull_Right;
 		}
-		
+	move_spd=0;
 	if down_key == true
 		{
 		pullstate=0;
@@ -111,7 +111,7 @@ if global.fishing == true
 	
 	if pullstate==global.fishdirection%3
 		{
-		global.fishprogress=global.fishprogress-100;
+		global.fishprogress=global.fishprogress-5;
 		}
 	
 	if global.fishprogress==0
