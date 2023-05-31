@@ -6,6 +6,7 @@ xspd = 0;
 yspd = 0;
 
 move_spd = 2;
+layer_create(-10000, "Textbox");
 
 global.fishprogress=1800;
 global.fishing = false

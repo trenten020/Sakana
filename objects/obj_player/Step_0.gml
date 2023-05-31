@@ -74,7 +74,20 @@ x += xspd;
 y += yspd;
 
 //Trenten is awesome
+global.pause = false;
+
+if (global.pause == true)
+{
+move_spd = 2;
+}
+else 
+{
+move_spd = 2;
+}
+
+
 //FISHING
+
 
 if global.fishing == true
 {
