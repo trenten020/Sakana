@@ -16,5 +16,5 @@ if global.fishing == false && fishspot != noone
 	
 	fishbattle=time_source_create(time_source_game, 3, time_source_units_seconds, fishtimer, [],-1 )
 	time_source_start(fishbattle);
-	
+	global.fishnum=floor(random(100));
 }

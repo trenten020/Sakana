@@ -1,9 +1,7 @@
 depth=-10000; 
 
-
-//Fish chooser, based off randomnum input (fishnum)
 /*Need to create seperate fish generator for when story progresses and fish*/
-global.fishnum=floor(random(100));
+
 if global.fishnum>=90
 	{
 	global.fish = "Salmon";	
@@ -38,8 +36,11 @@ if global.fishnum>=90
 								}
 if global.fishprogress==0
 	{
-	show_message_async("You caught a " + global.fish);
 	x=global.playerx;
 	y=global.playery;
-	global.fishprogress=1800;
+//	global.fishprogress=1800;
 	}
+if global.fishprogress > 0
+{
+
+}
