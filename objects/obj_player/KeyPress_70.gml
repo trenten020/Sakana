@@ -5,16 +5,13 @@ if global.fishing == false && fishspot != noone
 {
 	
 	global.fishprogress = 1800;
+	global.fishing = true
+	global.fishnum=floor(random(100));
 
 	instance_create_layer(x, y, "fishes", Fishing_Line);
-
-	global.fishing = true
 	layer_set_visible("Fishes", true) //Layer that fish graphics will be on
-	
-	
 	sprite_index = Pull_Back;
 	
 	fishbattle=time_source_create(time_source_game, 3, time_source_units_seconds, fishtimer, [],-1 )
 	time_source_start(fishbattle);
-	global.fishnum=floor(random(100));
 }
