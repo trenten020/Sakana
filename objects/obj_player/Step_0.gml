@@ -74,29 +74,19 @@ x += xspd;
 y += yspd;
 
 //Trenten is awesome
-global.pause = false;
-
-if (global.pause == true)
-{
-move_spd = 2;
-}
-else 
-{
-move_spd = 2;
-}
-
 
 //FISHING
 
 
 if global.fishing == true
 {
+	move_spd=0;
 	if right_key == true
 		{
 		pullstate=2;
 		sprite_index = Pull_Right;
 		}
-	move_spd=0;
+	
 	if down_key == true
 		{
 		pullstate=0;

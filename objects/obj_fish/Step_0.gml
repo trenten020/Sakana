@@ -1,7 +1,8 @@
 depth=-10000; 
 
 /*Need to create seperate fish generator for when story progresses and fish*/
-if global.fishing==true{
+if global.fishing==true
+{
 if global.fishnum>=90
 	{
 	global.fish = "Salmon";	
@@ -40,9 +41,4 @@ if global.fishprogress==0
 	{
 	x=global.playerx;
 	y=global.playery;
-	
 	}
-if global.fishprogress > 0
-{
-
-}

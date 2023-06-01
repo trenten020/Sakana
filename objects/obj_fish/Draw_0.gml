@@ -1,3 +1,4 @@
+sprite_index=spr_salmon;
 if global.fishprogress==0
 	{
 	sprite_index=spr_salmon;
