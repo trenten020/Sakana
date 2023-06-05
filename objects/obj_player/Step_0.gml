@@ -13,6 +13,19 @@ global.playeryb=bbox_bottom;
 global.playerx=x;
 global.playery=y;
 //collisions
+/*blocked = function(var object)
+{
+    if place_meeting(x + xspd, y, obj_tree) == true
+
+	{
+	xspd = 0;
+	}
+if place_meeting(x, y + yspd, obj_tree) == true
+	{
+	yspd = 0;
+	};
+}
+*/
 if place_meeting(x + xspd, y, obj_tree) == true
 
 	{
@@ -67,6 +80,15 @@ if place_meeting(x + xspd, y, obj_widow) == true
 	xspd = 0;
 	}
 if place_meeting(x, y + yspd, obj_widow) == true
+	{
+	yspd = 0;
+	}
+if place_meeting(x + xspd, y, obj_cabin) == true
+
+	{
+	xspd = 0;
+	}
+if place_meeting(x, y + yspd, obj_cabin) == true
 	{
 	yspd = 0;
 	}
