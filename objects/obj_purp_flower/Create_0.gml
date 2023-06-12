@@ -1,1 +1,1 @@
-depth=-100
+depth=-bbox_bottom;
