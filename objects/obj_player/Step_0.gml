@@ -13,19 +13,29 @@ global.playeryb=bbox_bottom;
 global.playerx=x;
 global.playery=y;
 //collisions
-/*blocked = function(var object)
+/*
+blocked = function(i, global.collisions)
 {
-    if place_meeting(x + xspd, y, obj_tree) == true
+    if place_meeting(x + xspd, y, global.collisions[i]) == true
 
 	{
 	xspd = 0;
 	}
-if place_meeting(x, y + yspd, obj_tree) == true
+	if place_meeting(x, y + yspd, global.collisions[i]) == true
 	{
 	yspd = 0;
 	};
 }
 */
+if place_meeting(x + xspd, y, obj_portal) == true
+
+	{
+	room=Room2;
+	}
+if place_meeting(x, y + yspd, obj_portal) == true
+	{
+	room=Room2;
+	}
 if place_meeting(x + xspd, y, obj_tree) == true
 
 	{

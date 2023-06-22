@@ -1,3 +1,5 @@
+i=0;
+global.collisions=[obj_water, obj_tree]
 
 window_set_size(1050, 900);
 window_center();
