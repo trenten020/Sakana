@@ -27,15 +27,7 @@ blocked = function(i, global.collisions)
 	};
 }
 */
-if place_meeting(x + xspd, y, obj_portal) == true
 
-	{
-	room=Room2;
-	}
-if place_meeting(x, y + yspd, obj_portal) == true
-	{
-	room=Room2;
-	}
 if place_meeting(x + xspd, y, obj_tree) == true
 
 	{
@@ -45,14 +37,8 @@ if place_meeting(x, y + yspd, obj_tree) == true
 	{
 	yspd = 0;
 	}
-if place_meeting(x + xspd, y, obj_bordertree) == true
-	{
-	xspd = 0;
-	}
-if place_meeting(x, y + yspd, obj_bordertree) == true
-	{
-	yspd = 0;
-	}
+	
+
 if place_meeting(x + xspd, y, obj_water) == true
 	{
 	xspd = 0;
