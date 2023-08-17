@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"spr_lavender","order":14,"path":"sprites/spr_lavender/spr_lavender.yy",},
     {"name":"Sprite18","order":11,"path":"sprites/Sprite18/Sprite18.yy",},
+    {"name":"spr_perch","order":1,"path":"sprites/spr_perch/spr_perch.yy",},
     {"name":"spr_npc","order":4,"path":"sprites/spr_npc/spr_npc.yy",},
     {"name":"oBoxImage","order":4,"path":"objects/oBoxImage/oBoxImage.yy",},
     {"name":"spr_dock","order":10,"path":"sprites/spr_dock/spr_dock.yy",},
@@ -33,7 +34,7 @@
     {"name":"obj_npc","order":4,"path":"objects/obj_npc/obj_npc.yy",},
     {"name":"oGameDONTDELETE","order":2,"path":"objects/oGameDONTDELETE/oGameDONTDELETE.yy",},
     {"name":"Fishing_Line","order":6,"path":"objects/Fishing_Line/Fishing_Line.yy",},
-    {"name":"Fish_Trout","order":15,"path":"sprites/Fish_Trout/Fish_Trout.yy",},
+    {"name":"Fish_Trout","order":2,"path":"sprites/Fish_Trout/Fish_Trout.yy",},
     {"name":"spr_grass","order":15,"path":"sprites/spr_grass/spr_grass.yy",},
     {"name":"oMenu","order":3,"path":"objects/oMenu/oMenu.yy",},
     {"name":"textBoxBackground","order":9,"path":"sprites/textBoxBackground/textBoxBackground.yy",},
