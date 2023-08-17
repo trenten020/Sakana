@@ -33,6 +33,7 @@
     {"name":"obj_npc","order":4,"path":"objects/obj_npc/obj_npc.yy",},
     {"name":"oGameDONTDELETE","order":2,"path":"objects/oGameDONTDELETE/oGameDONTDELETE.yy",},
     {"name":"Fishing_Line","order":6,"path":"objects/Fishing_Line/Fishing_Line.yy",},
+    {"name":"Fish_Trout","order":15,"path":"sprites/Fish_Trout/Fish_Trout.yy",},
     {"name":"spr_grass","order":15,"path":"sprites/spr_grass/spr_grass.yy",},
     {"name":"oMenu","order":3,"path":"objects/oMenu/oMenu.yy",},
     {"name":"textBoxBackground","order":9,"path":"sprites/textBoxBackground/textBoxBackground.yy",},

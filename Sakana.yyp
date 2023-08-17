@@ -60,6 +60,7 @@
     {"id":{"name":"obj_npc","path":"objects/obj_npc/obj_npc.yy",},},
     {"id":{"name":"oGameDONTDELETE","path":"objects/oGameDONTDELETE/oGameDONTDELETE.yy",},},
     {"id":{"name":"Fishing_Line","path":"objects/Fishing_Line/Fishing_Line.yy",},},
+    {"id":{"name":"Fish_Trout","path":"sprites/Fish_Trout/Fish_Trout.yy",},},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},},
     {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},},
     {"id":{"name":"textBoxBackground","path":"sprites/textBoxBackground/textBoxBackground.yy",},},
