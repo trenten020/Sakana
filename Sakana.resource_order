@@ -27,6 +27,7 @@
     {"name":"oBoxImage","order":4,"path":"objects/oBoxImage/oBoxImage.yy",},
     {"name":"obj_portal","order":18,"path":"objects/obj_portal/obj_portal.yy",},
     {"name":"spr_dock","order":16,"path":"sprites/spr_dock/spr_dock.yy",},
+    {"name":"fSilver2","order":1,"path":"fonts/fSilver2/fSilver2.yy",},
     {"name":"oBoxParent","order":1,"path":"objects/oBoxParent/oBoxParent.yy",},
     {"name":"spr_speachBubble","order":10,"path":"sprites/spr_speachBubble/spr_speachBubble.yy",},
     {"name":"sMenuBox","order":6,"path":"sprites/sMenuBox/sMenuBox.yy",},

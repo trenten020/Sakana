@@ -48,6 +48,7 @@
     {"id":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},},
     {"id":{"name":"spr_dock","path":"sprites/spr_dock/spr_dock.yy",},},
     {"id":{"name":"spr_salmon","path":"sprites/spr_salmon/spr_salmon.yy",},},
+    {"id":{"name":"fSilver2","path":"fonts/fSilver2/fSilver2.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"oBoxParent","path":"objects/oBoxParent/oBoxParent.yy",},},
     {"id":{"name":"spr_speachBubble","path":"sprites/spr_speachBubble/spr_speachBubble.yy",},},
