@@ -84,6 +84,7 @@
     {"id":{"name":"oBoxName","path":"objects/oBoxName/oBoxName.yy",},},
     {"id":{"name":"obj_bordertree","path":"objects/obj_bordertree/obj_bordertree.yy",},},
     {"id":{"name":"Fish_Pull_Forward","path":"sprites/Fish_Pull_Forward/Fish_Pull_Forward.yy",},},
+    {"id":{"name":"Object31","path":"objects/Object31/Object31.yy",},},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},},
     {"id":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},},
     {"id":{"name":"obj_widow","path":"objects/obj_widow/obj_widow.yy",},},

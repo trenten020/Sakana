@@ -59,6 +59,7 @@
     {"name":"oBoxName","order":2,"path":"objects/oBoxName/oBoxName.yy",},
     {"name":"obj_bordertree","order":2,"path":"objects/obj_bordertree/obj_bordertree.yy",},
     {"name":"Fish_Pull_Forward","order":13,"path":"sprites/Fish_Pull_Forward/Fish_Pull_Forward.yy",},
+    {"name":"Object31","order":20,"path":"objects/Object31/Object31.yy",},
     {"name":"spr_water","order":7,"path":"sprites/spr_water/spr_water.yy",},
     {"name":"obj_truck","order":17,"path":"objects/obj_truck/obj_truck.yy",},
     {"name":"obj_rock","order":5,"path":"objects/obj_rock/obj_rock.yy",},
