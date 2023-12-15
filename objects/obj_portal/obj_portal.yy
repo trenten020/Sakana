@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprite_car",
-    "path": "sprites/sprite_car/sprite_car.yy",
+    "name": "spr_car",
+    "path": "sprites/spr_car/spr_car.yy",
   },
   "spriteMaskId": null,
   "visible": true,
