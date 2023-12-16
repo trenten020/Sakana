@@ -7,6 +7,23 @@ down_key = keyboard_check(ord("S"));
 xspd = (right_key - left_key) * move_spd;
 yspd = (down_key - up_key) * move_spd;
 
+if right_key==true
+{
+sprite_index= spr_player_right;	
+}
+if left_key==true
+{
+sprite_index= spr_player_left;	
+}
+if up_key==true
+{
+sprite_index= spr_player_up;	
+}
+if down_key==true
+{
+sprite_index= spr_player;	
+}
+
 depth=-bbox_bottom;
 global.playerxb=bbox_right;
 global.playeryb=bbox_bottom;
