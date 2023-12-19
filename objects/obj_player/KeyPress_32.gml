@@ -1,4 +1,4 @@
-///@ description
+
 if (instance_exists(oTextbox))
 {
 	close_textbox();

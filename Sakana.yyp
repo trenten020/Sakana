@@ -58,7 +58,7 @@
     {"id":{"name":"textBoxName","path":"sprites/textBoxName/textBoxName.yy",},},
     {"id":{"name":"clear_wall","path":"objects/clear_wall/clear_wall.yy",},},
     {"id":{"name":"spr_white_flower","path":"sprites/spr_white_flower/spr_white_flower.yy",},},
-    {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},},
+    {"id":{"name":"spr_widow","path":"sprites/spr_widow/spr_widow.yy",},},
     {"id":{"name":"Fish_Pull_Left","path":"sprites/Fish_Pull_Left/Fish_Pull_Left.yy",},},
     {"id":{"name":"ground","path":"tilesets/ground/ground.yy",},},
     {"id":{"name":"obj_npc","path":"objects/obj_npc/obj_npc.yy",},},

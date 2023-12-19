@@ -7,19 +7,19 @@ down_key = keyboard_check(ord("S"));
 xspd = (right_key - left_key) * move_spd;
 yspd = (down_key - up_key) * move_spd;
 
-if right_key==true
+if right_key==true && global.fishing==false
 {
 sprite_index= spr_player_right;	
 }
-if left_key==true
+if left_key==true && global.fishing==false
 {
 sprite_index= spr_player_left;	
 }
-if up_key==true
+if up_key==true && global.fishing==false
 {
 sprite_index= spr_player_up;	
 }
-if down_key==true
+if down_key==true && global.fishing==false
 {
 sprite_index= spr_player;	
 }
@@ -29,6 +29,7 @@ global.playerxb=bbox_right;
 global.playeryb=bbox_bottom;
 global.playerx=x;
 global.playery=y;
+global.player_spr=sprite_index;
 //collisions
 /*
 blocked = function(i, global.collisions)

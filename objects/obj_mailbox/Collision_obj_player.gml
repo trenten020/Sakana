@@ -1,7 +1,10 @@
-if( bbox_left<global.playerx)
+///@description When you press 'e'
+
+if bbox_left<global.playerx && bbox_right>global.playerx
 {
-	if( bbox_right>global.playerx && object_get_sprite(obj_player)==spr_player_up)
+	if sprite_index==spr_player_up && keyboard_check(ord("E")==true)
 	{
-		create_textbox();	
+		global.mailbox=true;
 	}
 }
+else global.mailbox=false;

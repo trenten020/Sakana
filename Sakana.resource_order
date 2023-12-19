@@ -35,7 +35,7 @@
     {"name":"textBoxName","order":20,"path":"sprites/textBoxName/textBoxName.yy",},
     {"name":"clear_wall","order":13,"path":"objects/clear_wall/clear_wall.yy",},
     {"name":"spr_white_flower","order":17,"path":"sprites/spr_white_flower/spr_white_flower.yy",},
-    {"name":"Sprite25","order":18,"path":"sprites/Sprite25/Sprite25.yy",},
+    {"name":"spr_widow","order":18,"path":"sprites/spr_widow/spr_widow.yy",},
     {"name":"Fish_Pull_Left","order":12,"path":"sprites/Fish_Pull_Left/Fish_Pull_Left.yy",},
     {"name":"obj_npc","order":4,"path":"objects/obj_npc/obj_npc.yy",},
     {"name":"oGameDONTDELETE","order":2,"path":"objects/oGameDONTDELETE/oGameDONTDELETE.yy",},
