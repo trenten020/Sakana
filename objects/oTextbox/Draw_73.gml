@@ -5,9 +5,9 @@ if (!instance_exists(oBoxName)) exit;
 draw_set_font(fSilver);
 
 //values
-var _name = "Joe";
-var _message = "Hi how are you? How has your day been?";
-var _image = spr_player;
+var _name = " Sakura";
+var _message = "Do you miss them?";
+var _image = spr_grave;
 
 draw_text(oBoxName.x, oBoxName.y, _name);
 

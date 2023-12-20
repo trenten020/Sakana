@@ -183,6 +183,6 @@
     "y": 59.9999,
   },
   "volume": 1.0,
-  "xorigin": -160,
-  "yorigin": -90,
+  "xorigin": -159,
+  "yorigin": -145,
 }

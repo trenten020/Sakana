@@ -38,6 +38,7 @@
   },
   "resources": [
     {"id":{"name":"spr_lavender","path":"sprites/spr_lavender/spr_lavender.yy",},},
+    {"id":{"name":"font_markus","path":"fonts/font_markus/font_markus.yy",},},
     {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
     {"id":{"name":"MenuFunctions","path":"scripts/MenuFunctions/MenuFunctions.yy",},},
     {"id":{"name":"spr_cabin","path":"sprites/spr_cabin/spr_cabin.yy",},},

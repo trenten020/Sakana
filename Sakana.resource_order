@@ -21,6 +21,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_lavender","order":14,"path":"sprites/spr_lavender/spr_lavender.yy",},
+    {"name":"font_markus","order":2,"path":"fonts/font_markus/font_markus.yy",},
     {"name":"Sprite18","order":18,"path":"sprites/Sprite18/Sprite18.yy",},
     {"name":"spr_cabin","order":26,"path":"sprites/spr_cabin/spr_cabin.yy",},
     {"name":"Sprite27","order":1,"path":"sprites/Sprite27/Sprite27.yy",},

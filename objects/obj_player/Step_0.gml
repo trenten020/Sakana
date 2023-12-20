@@ -1,3 +1,11 @@
+if global.pause==true
+{
+	move_spd=0;
+}
+else
+{
+	move_spd=2;
+}
 right_key = keyboard_check(ord("D"));
 left_key = keyboard_check(ord("A"));
 up_key = keyboard_check(ord("W"));

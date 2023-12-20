@@ -1,3 +1,4 @@
+///@description Timer, screen size, fishing timer, and player movement
 
 window_set_size(1050, 900);
 window_center();
@@ -5,6 +6,7 @@ randomize();
 xspd = 0;
 yspd = 0;
 
+global.pause=false;
 move_spd = 2;
 layer_create(-10000, "Textbox");
 

@@ -1,13 +1,12 @@
 ///@description When you press 'e'
+show_debug_message("collision found");
 
 if (bbox_left<global.playerx && bbox_right>global.playerx)
 {
-	if (sprite_index==spr_player_up && keyboard_check(ord("E")==true))
+	show_debug_message("made it");
+	if (global.player_spr==spr_player_up && keyboard_check(ord("E")))
 	{
+		show_debug_message("E pressed");
 		global.mailbox=true;
 	}
-}
-else 
-{
-	global.mailbox=false;
 }
