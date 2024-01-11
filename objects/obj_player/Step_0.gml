@@ -6,10 +6,10 @@ else
 {
 	move_spd=2;
 }
-right_key = keyboard_check(ord("D"));
-left_key = keyboard_check(ord("A"));
-up_key = keyboard_check(ord("W"));
-down_key = keyboard_check(ord("S"));
+var right_key = keyboard_check(ord("D"));
+var left_key = keyboard_check(ord("A"));
+var up_key = keyboard_check(ord("W"));
+var down_key = keyboard_check(ord("S"));
 
 
 xspd = (right_key - left_key) * move_spd;

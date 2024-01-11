@@ -5,5 +5,5 @@ if (instance_exists(oTextbox))
 }
 else
 {
-	create_textbox();
+	create_textbox("Self", "*I miss them*", spr_player);
 }
