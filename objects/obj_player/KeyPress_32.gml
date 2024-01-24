@@ -1,9 +1,6 @@
 
-if (instance_exists(oTextbox))
-{
-	close_textbox();
-}
-else
-{
+	if global.pause == true 
+	{
+	exit;
+	}
 	create_textbox(" Self", "*I miss them*", spr_player);
-}

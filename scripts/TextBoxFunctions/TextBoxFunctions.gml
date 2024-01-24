@@ -4,6 +4,7 @@ global.textboxSequence = -1;
 
 function create_textbox (name, message, image) 
 {
+close_textbox();
 global.pause = true
 // create texbox instance
 	var _textbox = instance_create_layer(0, 0, "Textbox", oTextbox); 
