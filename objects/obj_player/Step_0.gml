@@ -81,14 +81,6 @@ if place_meeting(x, y + yspd, obj_rock) == true
 	{
 	yspd = 0;
 	}
-if place_meeting(x + xspd, y, obj_grave) == true
-	{
-	xspd = 0;
-	}
-if place_meeting(x, y + yspd, obj_grave) == true
-	{
-	yspd = 0;
-	}
 if place_meeting(x + xspd, y, clear_wall) == true
 	{
 	xspd = 0;

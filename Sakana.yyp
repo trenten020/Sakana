@@ -78,6 +78,7 @@
     {"id":{"name":"obj_grave","path":"objects/obj_grave/obj_grave.yy",},},
     {"id":{"name":"spr_player_left","path":"sprites/spr_player_left/spr_player_left.yy",},},
     {"id":{"name":"Pull_Right","path":"sprites/Pull_Right/Pull_Right.yy",},},
+    {"id":{"name":"Collision","path":"scripts/Collision/Collision.yy",},},
     {"id":{"name":"obj_purp_flower","path":"objects/obj_purp_flower/obj_purp_flower.yy",},},
     {"id":{"name":"Pull_Back","path":"sprites/Pull_Back/Pull_Back.yy",},},
     {"id":{"name":"Fish_Pull_Right","path":"sprites/Fish_Pull_Right/Fish_Pull_Right.yy",},},

@@ -54,6 +54,7 @@
     {"name":"obj_grave","order":12,"path":"objects/obj_grave/obj_grave.yy",},
     {"name":"spr_player_left","order":4,"path":"sprites/spr_player_left/spr_player_left.yy",},
     {"name":"Pull_Right","order":2,"path":"sprites/Pull_Right/Pull_Right.yy",},
+    {"name":"Collision","order":2,"path":"scripts/Collision/Collision.yy",},
     {"name":"obj_purp_flower","order":10,"path":"objects/obj_purp_flower/obj_purp_flower.yy",},
     {"name":"Fish_Pull_Right","order":11,"path":"sprites/Fish_Pull_Right/Fish_Pull_Right.yy",},
     {"name":"spr_tree","order":3,"path":"sprites/spr_tree/spr_tree.yy",},
