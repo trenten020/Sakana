@@ -6,6 +6,7 @@ else
 {
 	move_spd=2;
 }
+
 var right_key = keyboard_check(ord("D"));
 var left_key = keyboard_check(ord("A"));
 var up_key = keyboard_check(ord("W"));
@@ -106,9 +107,8 @@ if place_meeting(x, y + yspd, obj_cabin) == true
 	{
 	yspd = 0;
 	}
-x += xspd;
-y += yspd;
-
+	
+move_and_collide(xspd, yspd, layer_get_all_elements("Collision_Instances"));
 //Trenten is awesome
 
 //FISHING

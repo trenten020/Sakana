@@ -20,3 +20,6 @@ function fishtimer()
 	global.fishdirection=global.fishdirection+1;
 	}
 fishbattle=time_source_create(time_source_game, 3, time_source_units_seconds, fishtimer, [],-1 )
+
+
+

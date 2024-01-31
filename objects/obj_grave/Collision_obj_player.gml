@@ -1,4 +1,4 @@
-Collision(obj_grave);
+
 
 if global.pause == true 
 	{

@@ -931,9 +931,13 @@
     {"name":"inst_416C64AE","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6CD77380","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_295B23E7","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_2A133E0","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd": false,
   "layers": [
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Collision_Instances","depth":-2200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2A133E0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_grave","path":"objects/obj_grave/obj_grave.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":0.6,"x":832.0,"y":1472.0,},
+      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Invisible_Barriers","depth":-2100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_75CEE51C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"clear_wall","path":"objects/clear_wall/clear_wall.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":0.2,"x":1577.0,"y":960.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_60CBADA8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"clear_wall","path":"objects/clear_wall/clear_wall.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":0.2,"x":1600.0,"y":960.0,},
