@@ -32,5 +32,8 @@
     "path": "sprites/spr_tree/spr_tree.yy",
   },
   "spriteMaskId": null,
+  "tags": [
+    "collides_with_player",
+  ],
   "visible": true,
 }

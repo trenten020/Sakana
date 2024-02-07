@@ -32,5 +32,8 @@
     "path": "sprites/spr_cabin/spr_cabin.yy",
   },
   "spriteMaskId": null,
+  "tags": [
+    "collides_with_player",
+  ],
   "visible": true,
 }

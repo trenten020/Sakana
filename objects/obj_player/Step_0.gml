@@ -39,76 +39,10 @@ global.playeryb=bbox_bottom;
 global.playerx=x;
 global.playery=y;
 global.player_spr=sprite_index;
-//collisions
-/*
-blocked = function(i, global.collisions)
-{
-    if place_meeting(x + xspd, y, global.collisions[i]) == true
 
-	{
-	xspd = 0;
-	}
-	if place_meeting(x, y + yspd, global.collisions[i]) == true
-	{
-	yspd = 0;
-	};
-}
-*/
 
-if place_meeting(x + xspd, y, obj_tree) == true
 
-	{
-	xspd = 0;
-	}
-if place_meeting(x, y + yspd, obj_tree) == true
-	{
-	yspd = 0;
-	}
-	
-
-if place_meeting(x + xspd, y, obj_water) == true
-	{
-	xspd = 0;
-	}
-if place_meeting(x, y + yspd, obj_water) == true
-	{
-	yspd = 0;
-	}
-if place_meeting(x + xspd, y, obj_rock) == true
-	{
-	xspd = 0;
-	}
-if place_meeting(x, y + yspd, obj_rock) == true
-	{
-	yspd = 0;
-	}
-if place_meeting(x + xspd, y, clear_wall) == true
-	{
-	xspd = 0;
-	}
-if place_meeting(x, y + yspd, clear_wall) == true
-	{
-	yspd = 0;
-	}
-if place_meeting(x + xspd, y, obj_widow) == true
-	{
-	xspd = 0;
-	}
-if place_meeting(x, y + yspd, obj_widow) == true
-	{
-	yspd = 0;
-	}
-if place_meeting(x + xspd, y, obj_cabin) == true
-
-	{
-	xspd = 0;
-	}
-if place_meeting(x, y + yspd, obj_cabin) == true
-	{
-	yspd = 0;
-	}
-	
-move_and_collide(xspd, yspd, layer_get_all_elements("Collision_Instances"));
+move_and_collide(xspd, yspd, tag_get_asset_ids("collides_with_player", asset_object));
 //Trenten is awesome
 
 //FISHING

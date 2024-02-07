@@ -30,5 +30,8 @@
     "path": "sprites/spr_rock/spr_rock.yy",
   },
   "spriteMaskId": null,
+  "tags": [
+    "collides_with_player",
+  ],
   "visible": true,
 }

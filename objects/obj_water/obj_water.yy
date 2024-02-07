@@ -32,5 +32,8 @@
     "path": "sprites/spr_water/spr_water.yy",
   },
   "spriteMaskId": null,
+  "tags": [
+    "collides_with_player",
+  ],
   "visible": true,
 }

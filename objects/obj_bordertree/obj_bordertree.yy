@@ -32,5 +32,8 @@
     "path": "sprites/spr_bordertree/spr_bordertree.yy",
   },
   "spriteMaskId": null,
+  "tags": [
+    "collides_with_player",
+  ],
   "visible": true,
 }

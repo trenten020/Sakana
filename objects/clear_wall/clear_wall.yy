@@ -30,5 +30,8 @@
     "path": "sprites/Sprite23/Sprite23.yy",
   },
   "spriteMaskId": null,
+  "tags": [
+    "collides_with_player",
+  ],
   "visible": true,
 }

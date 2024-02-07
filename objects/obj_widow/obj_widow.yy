@@ -32,5 +32,8 @@
     "path": "sprites/spr_widow/spr_widow.yy",
   },
   "spriteMaskId": null,
+  "tags": [
+    "collides_with_player",
+  ],
   "visible": true,
 }

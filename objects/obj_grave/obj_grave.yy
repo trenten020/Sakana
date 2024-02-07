@@ -34,5 +34,8 @@
     "path": "sprites/spr_grave/spr_grave.yy",
   },
   "spriteMaskId": null,
+  "tags": [
+    "collides_with_player",
+  ],
   "visible": true,
 }
