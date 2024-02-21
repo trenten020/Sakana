@@ -13,9 +13,6 @@ var up_key = keyboard_check(ord("W"));
 var down_key = keyboard_check(ord("S"));
 
 
-xspd = (right_key - left_key) * move_spd;
-yspd = (down_key - up_key) * move_spd;
-
 if right_key==true && global.fishing==false
 {
 sprite_index= spr_player_right;	
@@ -42,7 +39,7 @@ global.player_spr=sprite_index;
 
 
 
-move_and_collide(xspd, yspd, tag_get_asset_ids("collides_with_player", asset_object));
+
 //Trenten is awesome
 
 //FISHING
@@ -50,7 +47,7 @@ move_and_collide(xspd, yspd, tag_get_asset_ids("collides_with_player", asset_obj
 
 if global.fishing == true
 {
-	move_spd=0;
+	move_spd = 0;
 	if right_key == true
 		{
 		pullstate=2;
@@ -77,12 +74,22 @@ if global.fishing == true
 	if global.fishprogress==0
 		{
 		global.fishing = false;
+		time_source_destroy(fishbattle)
 		move_spd=2;
 		sprite_index=spr_player;
 		}
 }
+xspd = (right_key - left_key) * move_spd;
+yspd = (down_key - up_key) * move_spd;
+move_and_collide(xspd, yspd, tag_get_asset_ids("collides_with_player", asset_object));
 
-if global.fishing == false
-{
-time_source_destroy(fishbattle)
-}
+
+
+
+
+
+
+
+
+
+

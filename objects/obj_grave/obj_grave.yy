@@ -36,6 +36,7 @@
   "spriteMaskId": null,
   "tags": [
     "collides_with_player",
+    "Interactable",
   ],
   "visible": true,
 }

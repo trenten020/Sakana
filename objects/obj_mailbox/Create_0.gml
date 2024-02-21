@@ -1,2 +1,8 @@
 depth = -bbox_bottom;
-global.mailbox=false;
+
+
+self.interact = function()
+{
+	create_textbox(" Mailbox", "*It is empty*", spr_mailox);
+	return true; 
+}
