@@ -10,6 +10,7 @@ global.pause=false;
 move_spd = 2;
 layer_create(-10000, "Textbox");
 
+//fishing
 global.fishprogress=1800;
 global.fishing = false
 global.fishdirection=0;
@@ -20,6 +21,16 @@ function fishtimer()
 	global.fishdirection=global.fishdirection+1;
 	}
 fishbattle=time_source_create(time_source_game, 3, time_source_units_seconds, fishtimer, [],-1 )
+	
 
+//Daycycle
+function worlddarkness()
+	{
+		if (darkness<40)
+		{
+		darkness=darkness+1;
+		}
+	}
+daycycle=time_source_create(time_source_game, 600, time_source_units_seconds, worlddarkness,[], -1)
 
 

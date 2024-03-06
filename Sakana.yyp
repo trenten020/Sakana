@@ -57,6 +57,7 @@
     {"id":{"name":"spr_speachBubble","path":"sprites/spr_speachBubble/spr_speachBubble.yy",},},
     {"id":{"name":"sMenuBox","path":"sprites/sMenuBox/sMenuBox.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_night","path":"sprites/spr_night/spr_night.yy",},},
     {"id":{"name":"textBoxName","path":"sprites/textBoxName/textBoxName.yy",},},
     {"id":{"name":"clear_wall","path":"objects/clear_wall/clear_wall.yy",},},
     {"id":{"name":"spr_white_flower","path":"sprites/spr_white_flower/spr_white_flower.yy",},},
@@ -103,6 +104,7 @@
     {"id":{"name":"oTextbox","path":"objects/oTextbox/oTextbox.yy",},},
     {"id":{"name":"obj_SpeechBubEnd","path":"objects/obj_SpeechBubEnd/obj_SpeechBubEnd.yy",},},
     {"id":{"name":"obj_cabin","path":"objects/obj_cabin/obj_cabin.yy",},},
+    {"id":{"name":"Shader1","path":"shaders/Shader1/Shader1.yy",},},
     {"id":{"name":"seqTextbox","path":"sequences/seqTextbox/seqTextbox.yy",},},
     {"id":{"name":"TextBoxFunctions","path":"scripts/TextBoxFunctions/TextBoxFunctions.yy",},},
     {"id":{"name":"textBoxWhite","path":"sprites/textBoxWhite/textBoxWhite.yy",},},
@@ -115,6 +117,7 @@
     {"id":{"name":"mountain","path":"sprites/mountain/mountain.yy",},},
     {"id":{"name":"spr_rock","path":"sprites/spr_rock/spr_rock.yy",},},
     {"id":{"name":"spr_flower_red","path":"sprites/spr_flower_red/spr_flower_red.yy",},},
+    {"id":{"name":"Sequence2","path":"sequences/Sequence2/Sequence2.yy",},},
     {"id":{"name":"Pull_Left","path":"sprites/Pull_Left/Pull_Left.yy",},},
   ],
   "RoomOrderNodes": [

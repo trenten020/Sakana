@@ -34,6 +34,7 @@
     {"name":"oBoxParent","order":1,"path":"objects/oBoxParent/oBoxParent.yy",},
     {"name":"spr_speachBubble","order":10,"path":"sprites/spr_speachBubble/spr_speachBubble.yy",},
     {"name":"sMenuBox","order":6,"path":"sprites/sMenuBox/sMenuBox.yy",},
+    {"name":"spr_night","order":30,"path":"sprites/spr_night/spr_night.yy",},
     {"name":"textBoxName","order":20,"path":"sprites/textBoxName/textBoxName.yy",},
     {"name":"clear_wall","order":13,"path":"objects/clear_wall/clear_wall.yy",},
     {"name":"spr_white_flower","order":17,"path":"sprites/spr_white_flower/spr_white_flower.yy",},
@@ -86,6 +87,7 @@
     {"name":"mountain","order":24,"path":"sprites/mountain/mountain.yy",},
     {"name":"spr_rock","order":25,"path":"sprites/spr_rock/spr_rock.yy",},
     {"name":"spr_flower_red","order":2,"path":"sprites/spr_flower_red/spr_flower_red.yy",},
+    {"name":"Sequence2","order":1,"path":"sequences/Sequence2/Sequence2.yy",},
     {"name":"Pull_Left","order":1,"path":"sprites/Pull_Left/Pull_Left.yy",},
   ],
 }
