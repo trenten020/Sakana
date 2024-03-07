@@ -8,13 +8,10 @@
 	
 	for (var i = 0; i < collisions_count; i=i+1;)
     {
-		show_debug_message(collisions_dslist[|i]);
-        if asset_has_tags(collisions_dslist[|i], "Interactable", asset_object)
+        if asset_has_tags(collisions_dslist[|i].object_index, "Interactable", asset_object)
 			{
-			show_debug_message("interactable")
-			if (instance_id_get(collisions_dslist[|i]).interact())
+			if (method_call(collisions_dslist[|i].interact,[]))
 				{
-				show_debug_message("interacted")
 				exit;
 				}
 			}
