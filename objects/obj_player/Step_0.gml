@@ -12,7 +12,7 @@ var left_key = keyboard_check(ord("A"));
 var up_key = keyboard_check(ord("W"));
 var down_key = keyboard_check(ord("S"));
 
-
+#region Fishing
 if right_key==true && global.fishing==false
 {
 sprite_index= spr_player_right;	
@@ -79,6 +79,8 @@ if global.fishing == true
 		sprite_index=spr_player;
 		}
 }
+#endregion 
+
 xspd = (right_key - left_key) * move_spd;
 yspd = (down_key - up_key) * move_spd;
 move_and_collide(xspd, yspd, tag_get_asset_ids("collides_with_player", asset_object));
