@@ -68,7 +68,7 @@ if global.fishing == true
 	
 	if pullstate==global.fishdirection%3
 		{
-		global.fishprogress=global.fishprogress-5;
+		global.fishprogress=global.fishprogress-1;
 		}
 	
 	if global.fishprogress==0
