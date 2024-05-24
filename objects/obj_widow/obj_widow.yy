@@ -8,8 +8,8 @@
   "name":"obj_widow",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Plants",
+    "path":"folders/Objects/Plants.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,9 +30,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite25",
-    "path":"sprites/Sprite25/Sprite25.yy",
+    "name":"spr_widow",
+    "path":"sprites/spr_widow/spr_widow.yy",
   },
   "spriteMaskId":null,
+  "tags":[
+    "collides_with_player",
+  ],
   "visible":true,
 }

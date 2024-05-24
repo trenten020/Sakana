@@ -8,8 +8,8 @@
   "name":"obj_tree",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Plants",
+    "path":"folders/Objects/Plants.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -34,5 +34,8 @@
     "path":"sprites/spr_tree/spr_tree.yy",
   },
   "spriteMaskId":null,
+  "tags":[
+    "collides_with_player",
+  ],
   "visible":true,
 }

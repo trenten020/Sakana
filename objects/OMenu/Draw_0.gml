@@ -1,4 +1,4 @@
-draw_sprite_stretched(sMenuBox,0,x-margin,y-margin,widthFull,heightFull)
+//draw_sprite_stretched(sMenuBox,0,x-margin,y-margin,widthFull,heightFull)
 
 draw_set_color(c_white);
 draw_set_font(fSilver);
@@ -6,7 +6,7 @@ draw_set_halign(fa_left);
 draw_set_valign(fa_top);
 
 var _desc = !(description == -1);
-for (i = 0; i < (optionsCount + _desc); i++)
+for (var i = 0; i < (optionsCount + _desc); i++)
 {
 	draw_set_colour(c_white);
 	if (i == 0) && (_desc)

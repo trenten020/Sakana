@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
   "%Name":"obj_bordertree",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_bordertree",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Plants",
+    "path":"folders/Objects/Plants.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,5 +34,8 @@
     "path":"sprites/spr_bordertree/spr_bordertree.yy",
   },
   "spriteMaskId":null,
+  "tags":[
+    "collides_with_player",
+  ],
   "visible":true,
 }

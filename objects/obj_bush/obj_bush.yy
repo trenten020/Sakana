@@ -8,8 +8,8 @@
   "name":"obj_bush",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Plants",
+    "path":"folders/Objects/Plants.yy",
   },
   "parentObjectId":null,
   "persistent":false,
