@@ -34,7 +34,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"Sakana",
   "resources":[
@@ -46,6 +46,7 @@
     {"id":{"name":"obj_bordertree","path":"objects/obj_bordertree/obj_bordertree.yy",},},
     {"id":{"name":"obj_bush","path":"objects/obj_bush/obj_bush.yy",},},
     {"id":{"name":"obj_cabin","path":"objects/obj_cabin/obj_cabin.yy",},},
+    {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},},
     {"id":{"name":"obj_fishingsky","path":"objects/obj_fishingsky/obj_fishingsky.yy",},},
     {"id":{"name":"obj_grass","path":"objects/obj_grass/obj_grass.yy",},},
@@ -58,6 +59,7 @@
     {"id":{"name":"obj_purp_flower","path":"objects/obj_purp_flower/obj_purp_flower.yy",},},
     {"id":{"name":"obj_red_flower","path":"objects/obj_red_flower/obj_red_flower.yy",},},
     {"id":{"name":"obj_rock","path":"objects/obj_rock/obj_rock.yy",},},
+    {"id":{"name":"obj_spawn","path":"objects/obj_spawn/obj_spawn.yy",},},
     {"id":{"name":"obj_SpeechBub","path":"objects/obj_SpeechBub/obj_SpeechBub.yy",},},
     {"id":{"name":"obj_SpeechBubEnd","path":"objects/obj_SpeechBubEnd/obj_SpeechBubEnd.yy",},},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},},
@@ -72,6 +74,7 @@
     {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},},
     {"id":{"name":"oRoomManager","path":"objects/oRoomManager/oRoomManager.yy",},},
     {"id":{"name":"oTextbox","path":"objects/oTextbox/oTextbox.yy",},},
+    {"id":{"name":"room_cabin","path":"rooms/room_cabin/room_cabin.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"MenuFunctions","path":"scripts/MenuFunctions/MenuFunctions.yy",},},
@@ -93,6 +96,7 @@
     {"id":{"name":"spr_cabin","path":"sprites/spr_cabin/spr_cabin.yy",},},
     {"id":{"name":"spr_car","path":"sprites/spr_car/spr_car.yy",},},
     {"id":{"name":"spr_dock","path":"sprites/spr_dock/spr_dock.yy",},},
+    {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_fishingsky","path":"sprites/spr_fishingsky/spr_fishingsky.yy",},},
     {"id":{"name":"spr_flower_red","path":"sprites/spr_flower_red/spr_flower_red.yy",},},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},},
@@ -110,6 +114,7 @@
     {"id":{"name":"spr_salmon","path":"sprites/spr_salmon/spr_salmon.yy",},},
     {"id":{"name":"spr_speachBubble","path":"sprites/spr_speachBubble/spr_speachBubble.yy",},},
     {"id":{"name":"spr_speachBubbleEnd","path":"sprites/spr_speachBubbleEnd/spr_speachBubbleEnd.yy",},},
+    {"id":{"name":"spr_target","path":"sprites/spr_target/spr_target.yy",},},
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},},
     {"id":{"name":"spr_white_flower","path":"sprites/spr_white_flower/spr_white_flower.yy",},},
@@ -128,6 +133,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"room_cabin","path":"rooms/room_cabin/room_cabin.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[

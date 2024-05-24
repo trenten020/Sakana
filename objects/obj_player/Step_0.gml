@@ -87,6 +87,13 @@ move_and_collide(xspd, yspd, tag_get_asset_ids("collides_with_player", asset_obj
 
 
 
+//Teleports
+if (collision_point(640,1335,obj_player, false,false)!=noone)
+{
+room_goto(room_cabin);
+}
+
+
 
 
 

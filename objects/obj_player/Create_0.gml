@@ -24,7 +24,7 @@ pullstate=0;
 
 function fishtimer()
 	{
-	global.fishdirection=global.fishdirection+1;
+	global.fishdirection=irandom(2);
 	}
 fishbattle=time_source_create(time_source_game, 3, time_source_units_seconds, fishtimer, [],-1 )
 #endregion
