@@ -1,3 +1,4 @@
+global.bubbleSpawn = true
 if (global.bubbleSpawn == true)
 {		
 Menu

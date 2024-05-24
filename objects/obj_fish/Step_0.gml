@@ -37,8 +37,4 @@ if global.fishnum>=90
 								}
 							
 }
-if global.fishprogress==0
-	{
-	x=global.playerx;
-	y=global.playery;
-	}
+
